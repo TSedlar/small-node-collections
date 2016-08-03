@@ -1,0 +1,24 @@
+{
+  "name": "small-node-collections",
+  "version": "1.0.0",
+  "description": "A small library for basic collection utility functions",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TSedlar/small-node-collections.git"
+  },
+  "main": "./lib/app.js",
+  "keywords": [
+    "collections",
+    "small",
+    "basic",
+    "quick",
+    "minimal"
+  ],
+  "author": "TSedlar",
+  "license": "MIT",
+  "dependencies": {
+    "reify": "^0.3.6"
+  },
+  "devDependencies": {
+  }
+}
