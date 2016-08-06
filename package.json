@@ -1,6 +1,6 @@
 {
   "name": "small-node-collections",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small library for basic collection utility functions",
   "repository": {
     "type": "git",
